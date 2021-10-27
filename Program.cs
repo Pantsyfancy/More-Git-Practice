@@ -6,7 +6,7 @@ namespace More_Git_Practice
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("First!");
 		}
 	}
 }
