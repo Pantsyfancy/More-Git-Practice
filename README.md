@@ -1,5 +1,3 @@
-# Big Title Here
+# Just Practice
 
-Read good stuff
-
-Bad stuff
+Please ignore this project. I'm just messing around.
